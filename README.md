@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of peopleinside/flarum-ext-admin-css.** Not for installation: use [Packagist](https://packagist.org/packages/peopleinside/flarum-ext-admin-css) or the [upstream repository](https://github.com/PeopleInside/flarum-ext-admin-css).
 
-**0** versions archived · Latest: [`1.0.4`](https://github.com/flarchive/peopleinside-flarum-ext-admin-css/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^2.0.0-rc.6`
+**5** versions archived · Latest: [`1.0.4`](https://github.com/flarchive/peopleinside-flarum-ext-admin-css/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^2.0.0-rc.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-08-24 | `^2.0.0-rc.6` | [Browse](https://github.com/flarchive/peopleinside-flarum-ext-admin-css/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-08-24 | `^2.0.0-rc.6` | [Browse](https://github.com/flarchive/peopleinside-flarum-ext-admin-css/tree/archive/v1.0.1) |
+| `1.0.2` | 2026-08-24 | `^2.0.0-rc.6` | [Browse](https://github.com/flarchive/peopleinside-flarum-ext-admin-css/tree/archive/v1.0.2) |
+| `1.0.3` | 2026-09-29 | `^2.0.0-rc.6` | [Browse](https://github.com/flarchive/peopleinside-flarum-ext-admin-css/tree/archive/v1.0.3) |
+| `1.0.4` | 2026-10-31 | `^2.0.0-rc.6` | [Browse](https://github.com/flarchive/peopleinside-flarum-ext-admin-css/tree/archive/v1.0.4) |
 
 Catalog entry: [packages/peopleinside-flarum-ext-admin-css.json](https://github.com/flarchive/archive-index/blob/main/packages/peopleinside-flarum-ext-admin-css.json)
 
